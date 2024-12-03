@@ -1,0 +1,23 @@
+body {
+    background-color: gold;
+}
+        h1 {
+             color:red;
+             padding: 20px; 
+           text-align:left;
+        
+        }
+    h2{
+        text-align: left;
+    }
+    .btn{
+        width:200px;
+        height:50px;
+        background-color:aquamarine;
+        padding:10px 20px;
+        cursor:pointer;
+    }
+    .btn:hover{
+        background-color:blueviole;
+    }
+    
